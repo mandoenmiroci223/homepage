@@ -1,0 +1,23 @@
+body {
+    background-color: brown;
+    text-align: center;
+    max-width: 240px;
+}
+
+#navigation {
+    margin-bottom: 24px;
+}
+
+#navigation .link {
+    padding: 24px;
+    background-color: brown;
+}
+
+#navigation .link:hover {
+    background-color: gray;
+    cursor: pointer;
+}
+
+.produkt img {
+    width: 80%;
+}
